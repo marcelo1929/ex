@@ -1,0 +1,44 @@
+body{
+    color: #666;
+}
+
+a{
+    color: burlywood;
+    background-color: darkmagenta;
+    margin: 10px;
+}
+h1{
+    color: bisque;
+    background-color: forestgreen;
+    margin: 15px;
+}
+h2{
+color: darkkhaki;
+background-color: darkorange;
+margin: 20px;
+}
+h3{
+    color: azure;
+    background-color: black;
+    margin: 25px;
+}
+h4{
+    color: blueviolet;
+    background-color: darkgrey;
+    margin: 25px;
+}
+h5{
+    color: cornflowerblue;
+    background-color: chocolate;
+    margin: 30px;
+}
+h6{
+    color: darkred;
+    background-color: blue;
+    margin: 35px;
+}
+img{
+    color: crimson;
+    background-color: coral;
+    margin: 40px;
+}
